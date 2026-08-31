@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
-    "jose": "6.2.9",
+    "jose": "6.2.10",
     "mammoth": "^1.12.1",
     "react": "19.2.8",
     "react-dom": "19.2.8",
