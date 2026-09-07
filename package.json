@@ -65,12 +65,12 @@
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
-    "jose": "6.2.9",
+    "jose": "6.2.10",
     "mammoth": "^1.12.1",
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "unpdf": "^1.8.1",
-    "zod": "4.4.3"
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@axe-core/playwright": "4.13.0",
