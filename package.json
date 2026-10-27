@@ -83,7 +83,7 @@
     "@vitejs/plugin-react": "6.1.2",
     "@vitejs/plugin-rsc": "0.5.38",
     "drizzle-kit": "0.31.11",
-    "eslint": "9.39.5",
+    "eslint": "10.13.0",
     "eslint-config-next": "16.4.3",
     "next": "16.4.3",
     "react-server-dom-webpack": "19.3.1",
